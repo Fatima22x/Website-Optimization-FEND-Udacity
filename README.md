@@ -2,6 +2,12 @@
 
 [Hosted here](https://fatima22x.github.io/Website-Optimization-FEND-Udacity/)
 
+Optimizations made:
+1. Inlined the CSS & Javescript since they were pretty small
+2. Optimized the images (esp pizzeria.jpg!!)
+3. minified the code using online resources
+4. Fixed some problems in the for loops in views/js/main.js
+
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 To get started, check out the repository and inspect the code.
